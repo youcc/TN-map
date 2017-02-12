@@ -2,7 +2,7 @@ Make a TN map on Ubuntu16.04.1 using D3 and TopoJSON by following [Mike Bostock'
 
 ### Create the following files in local 
 index.html # changed height to 700    
-package.json  # changed a few devDependencies to make "npm install" work 
+package.json  # changed a few devDependencies to make "npm install" work   
 prepublish # changed FIPS code from 06 (CA) to 47 (TN), height 700 
 
 ### Convert data by running "npm install" on package.json
